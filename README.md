@@ -1,5 +1,11 @@
 ## Simple Company Name Extractor
 
+This program was created to obtain information about the properties of a given MAC
+address using `https://macaddress.io/` API. At this point it retreives the vendor 
+company name, but there is an easy way to extand it for any other required 
+options.
+
+
 Optional arguments:
 ```
   -h, --help            show this help message and exit
